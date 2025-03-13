@@ -9,7 +9,7 @@ What's Inside?
 - Case studies: House price prediction, email classification.
 - Reseources: Books, Youtube channels, courses
 
-How to Access
+How to Access Complete Book
 https://www.draft2digital.com/book/2783753
 
 machine-learning, mathematics, data-science, Mathematics-AI, Ebook
