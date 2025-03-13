@@ -7,9 +7,10 @@ What's Inside?
 - Calculus: Optimization techniques.
 - Probability & Statistics: Data uncertainty.
 - Case studies: House price prediction, email classification.
+- Reseources: Books, Youtube channels, courses
 
 How to Access
 https://www.draft2digital.com/book/2783753
 
-Call to Action
-Star this repo if you find it helpful, and share your feedback in the Issues section!
+machine-learning, mathematics, data-science, Mathematics-AI, Ebook
+
